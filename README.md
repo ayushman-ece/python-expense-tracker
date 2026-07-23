@@ -85,7 +85,7 @@ Enter Amount: 250
 
 **Ayushman Tiwari**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/ayushman-ece
 
 ---
 
